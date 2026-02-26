@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Safal Gautam<br><br>- 🔭 I’m a student<br>- 📚 I'm currently Bsc(Hons) Ethical Hacking & CyberSecurity<br>- ⚡ In my free time I maintain streaks</p>
+<p align="left">I'm Safal Gautam<br><br>- 🔭 I’m a student<br>-  ⚡ In my free time I maintain streaks</p>
 
 ###
 
