@@ -53,11 +53,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
